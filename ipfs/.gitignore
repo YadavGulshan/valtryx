@@ -22,10 +22,3 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-
-
-.anchor
-target
-**/*.rs.bk
-test-ledger
-**/node_modules
